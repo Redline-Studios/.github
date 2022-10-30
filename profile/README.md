@@ -1,5 +1,12 @@
+![Redline Studios Banner](https://i.imgur.com/VFEXnGd.png)
+
 # About Us : Redline Studios
 - Founded 10/21/2022
+- Learning & Developing
+- Building a FiveM QB-Core developer & gaming community
+
+# Discord
+https://discord.gg/RCU9XEvnsE
 
 # Developers:
 #### - Hyper#7533
