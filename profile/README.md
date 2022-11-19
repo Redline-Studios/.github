@@ -13,3 +13,7 @@ https://discord.gg/RCU9XEvnsE
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/hypertv)
 #### - xThrasherrr#6666
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/thrasherrr)
+#### - qwadebot#0001
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/qwscripts)
+#### - xViperAG#3029
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/xviperag)
