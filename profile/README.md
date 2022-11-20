@@ -6,7 +6,7 @@
 - Building a FiveM QB-Core developer & gaming community
 
 # Discord
-https://discord.gg/RCU9XEvnsE
+https://dsc.gg/redlinestudios
 
 # Developers:
 #### - Hyper#7533
